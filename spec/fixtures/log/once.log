@@ -1,0 +1,17 @@
+FF..
+
+1)
+RuntimeError in 'example'
+./spec/fake/thrice_spec.rb:5:
+
+2)
+RuntimeError in 'example'
+./spec/fake/twice_spec.rb:9:
+
+3)
+RuntimeError in 'example'
+./spec/fake/twice_spec.rb:9:
+
+Finished in 0.002404 seconds
+
+4 examples, 3 failures

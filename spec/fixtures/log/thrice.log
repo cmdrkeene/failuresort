@@ -1,0 +1,9 @@
+F...
+
+1)
+RuntimeError in 'thing thing'
+./spec/fake/thrice_spec.rb:5:
+
+Finished in 0.002122 seconds
+
+4 examples, 1 failure
